@@ -1,0 +1,125 @@
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.Properties.Resources.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.csproj.GenerateResource.cache
+C:\Users\demir\source\repos\ASCI\ASCI\bin\Debug\ASCI.exe.config
+C:\Users\demir\source\repos\ASCI\ASCI\bin\Debug\ASCI.exe
+C:\Users\demir\source\repos\ASCI\ASCI\bin\Debug\ASCI.pdb
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.exe
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.pdb
+D:\ASCI\ASCI\bin\Debug\ASCI.exe.config
+D:\ASCI\ASCI\bin\Debug\ASCI.exe
+D:\ASCI\ASCI\bin\Debug\ASCI.pdb
+D:\ASCI\ASCI\obj\Debug\ASCI.csprojAssemblyReference.cache
+D:\ASCI\ASCI\obj\Debug\ASCI.Form1.resources
+D:\ASCI\ASCI\obj\Debug\ASCI.Properties.Resources.resources
+D:\ASCI\ASCI\obj\Debug\ASCI.csproj.GenerateResource.cache
+D:\ASCI\ASCI\obj\Debug\ASCI.exe
+D:\ASCI\ASCI\obj\Debug\ASCI.pdb
+C:\Users\Demir\source\repos\ASCI\ASCI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Demir\source\repos\ASCI\ASCI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Demir\source\repos\ASCI\ASCI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.csproj.CopyComplete
+C:\Users\Demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.formAsci.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.h.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.FiyatDegistir.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.YöneticiEkrani.resources
+C:\Users\demir\source\repos\ASCI\ASCI\bin\Debug\MetroFramework.Design.dll
+C:\Users\demir\source\repos\ASCI\ASCI\bin\Debug\MetroFramework.dll
+C:\Users\demir\source\repos\ASCI\ASCI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.MainMenu.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.TableButton.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.TableOrders.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\ASCI.UserControlOnline.resources
+C:\Users\demir\source\repos\ASCI\ASCI\obj\Debug\WindowsFormsApp5.UserControlOrder.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.MasaMenuEkran.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.MasaSecimEkran.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.musteriEkranAna.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.musteriEkranGiris.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.ProgramGiris.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.formAsci.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.MainMenu.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.TableButton.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.TableOrders.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.UserControlOnline.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\WindowsFormsApp5.UserControlOrder.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.h.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.FiyatDegistir.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.Properties.Resources.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.YöneticiEkrani.resources
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.csproj.GenerateResource.cache
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.exe
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.pdb
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\ASCI.exe.config
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\ASCI.exe
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\ASCI.pdb
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\MetroFramework.Design.dll
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\MetroFramework.dll
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\System.Data.SQLite.dll
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\System.Data.SQLite.xml
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.csproj.CopyComplete
+C:\Users\demir\source\repos\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\ASCI.exe.config
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\ASCI.exe
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\ASCI.pdb
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.MasaMenuEkran.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.MasaSecimEkran.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.musteriEkranAna.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.musteriEkranGiris.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.ProgramGiris.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.formAsci.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.MainMenu.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.TableButton.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.TableOrders.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.UserControlOnline.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\WindowsFormsApp5.UserControlOrder.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.h.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.FiyatDegistir.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.YöneticiEkrani.resources
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.exe
+C:\Users\ASUS\Desktop\ASCI - Yedek - Copy\ASCI\obj\Debug\ASCI.pdb
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\ASCI.exe.config
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\ASCI.exe
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\ASCI.pdb
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\MetroFramework.dll
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.csprojAssemblyReference.cache
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.MasaMenuEkran.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.MasaSecimEkran.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.musteriEkranAna.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.musteriEkranGiris.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.ProgramGiris.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.formAsci.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.MainMenu.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.TableButton.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.TableOrders.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.UserControlOnline.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\WindowsFormsApp5.UserControlOrder.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.h.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.FiyatDegistir.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.Properties.Resources.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.YöneticiEkrani.resources
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.csproj.GenerateResource.cache
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.csproj.CopyComplete
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.exe
+C:\Users\Nafiz Canıtez\Desktop\İZÜ Ders Notları\2. Sınıf\1. Dönem\Görsel Programlama\Restaurant Otomasyonu\ASCI\obj\Debug\ASCI.pdb

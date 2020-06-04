@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{16F8FF4C-236B-4F6E-A2F6-C8033CC68189}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ASCI</RootNamespace>
+    <AssemblyName>ASCI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Data.19.2.5\lib\net452\DevExpress.Data.v19.2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.112.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abdullah-Nafiz\girisSunucu.cs" />
+    <Compile Include="Abdullah-Nafiz\MasaDurum.cs" />
+    <Compile Include="Abdullah-Nafiz\MasaMenuEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\MasaMenuEkran.designer.cs">
+      <DependentUpon>MasaMenuEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\MasaSecimEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\MasaSecimEkran.designer.cs">
+      <DependentUpon>MasaSecimEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\MasaSiparis.cs" />
+    <Compile Include="Abdullah-Nafiz\musteriEkranAna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\musteriEkranAna.designer.cs">
+      <DependentUpon>musteriEkranAna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\musteriEkranGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\musteriEkranGiris.designer.cs">
+      <DependentUpon>musteriEkranGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\PaketSiparis.cs" />
+    <Compile Include="Abdullah-Nafiz\ProgramGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\ProgramGiris.designer.cs">
+      <DependentUpon>ProgramGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abdullah-Nafiz\Yemek.cs" />
+    <Compile Include="Erdem\Asci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Erdem\Asci.Designer.cs">
+      <DependentUpon>Asci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Behzats\Customer.cs" />
+    <Compile Include="Behzats\GradientPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Behzats\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Behzats\MainMenu.designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Behzats\Sql.cs" />
+    <Compile Include="Behzats\TableButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Behzats\TableButton.designer.cs">
+      <DependentUpon>TableButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Behzats\TableOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Behzats\TableOrders.designer.cs">
+      <DependentUpon>TableOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Behzats\UserControlOnline.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Behzats\UserControlOnline.designer.cs">
+      <DependentUpon>UserControlOnline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Behzats\UserControlOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Behzats\UserControlOrder.designer.cs">
+      <DependentUpon>UserControlOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yusuf\eleman.cs" />
+    <Compile Include="Yusuf\Eleman_Düzenleme_Ekrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yusuf\Eleman_Düzenleme_Ekrani.designer.cs">
+      <DependentUpon>Eleman_Düzenleme_Ekrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yusuf\FiyatDegistir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yusuf\FiyatDegistir.designer.cs">
+      <DependentUpon>FiyatDegistir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Yusuf\siparis.cs" />
+    <Compile Include="UserControlOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Erdem\veriCekme.cs" />
+    <Compile Include="Yusuf\VeriErisimi.cs" />
+    <Compile Include="Yusuf\yemekBilgileri.cs" />
+    <Compile Include="Yusuf\YöneticiEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yusuf\YöneticiEkrani.designer.cs">
+      <DependentUpon>YöneticiEkrani.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Abdullah-Nafiz\MasaMenuEkran.resx">
+      <DependentUpon>MasaMenuEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abdullah-Nafiz\MasaSecimEkran.resx">
+      <DependentUpon>MasaSecimEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abdullah-Nafiz\musteriEkranAna.resx">
+      <DependentUpon>musteriEkranAna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abdullah-Nafiz\musteriEkranGiris.resx">
+      <DependentUpon>musteriEkranGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abdullah-Nafiz\ProgramGiris.resx">
+      <DependentUpon>ProgramGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Erdem\Asci.resx">
+      <DependentUpon>Asci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Behzats\MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Behzats\TableButton.resx">
+      <DependentUpon>TableButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Behzats\TableOrders.resx">
+      <DependentUpon>TableOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Behzats\UserControlOnline.resx">
+      <DependentUpon>UserControlOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Behzats\UserControlOrder.resx">
+      <DependentUpon>UserControlOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yusuf\Eleman_Düzenleme_Ekrani.resx">
+      <DependentUpon>Eleman_Düzenleme_Ekrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yusuf\FiyatDegistir.resx">
+      <DependentUpon>FiyatDegistir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Yusuf\YöneticiEkrani.resx">
+      <DependentUpon>YöneticiEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets'))" />
+  </Target>
+</Project>
